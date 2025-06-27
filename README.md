@@ -11,6 +11,8 @@ An advanced and dynamic **Employee Attendance Tracker** built in Microsoft Excel
 ![EMP_INFORMATION](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/refs/heads/main/EMP_INFORMATION.JPG)
 #### EMP_DETAIL_PDF_REPORT
 ![EMP_DETAIL_PDF_REPORT](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/refs/heads/main/_EMP_DETAIL_PDF_DASHBORD.JPG)
+#### EMAIL_SEND
+![EMAIL_SEND](https://raw.githubusercontent.com/amitpachpute2510/Excel_DashBords_Projects/refs/heads/main/EMAIL_SEND.JPG)
 #### EMP_DETAIL_FORM_TO_ADD
 ![ADD_NEW_EMP_](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/refs/heads/main/FORM.JPG)
 ---
