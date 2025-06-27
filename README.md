@@ -3,7 +3,16 @@
 
 An advanced and dynamic **Employee Attendance Tracker** built in Microsoft Excel. This dashboard provides real-time analytics, PDF report automation, employee record management, and smooth sheet navigation — all in a clean, user-friendly format.
 
-![enter image description here](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/refs/heads/main/dashboard_preview.JPG)
+#### DASHBORD
+![DASHBORD](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/f7d10aa3dd04647a6309da1113af91e95fcccdc8/dashboard_preview.JPG)
+#### TIME_SHEET
+![TIMESHEET](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/refs/heads/main/Time_sheet.JPG)
+#### EMP_INFORMATION
+![EMP_INFORMATION](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/refs/heads/main/EMP_INFORMATION.JPG)
+#### EMP_DETAIL_PDF_REPORT
+![EMP_DETAIL_PDF_REPORT](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/refs/heads/main/_EMP_DETAIL_PDF_DASHBORD.JPG)
+#### EMP_DETAIL_FORM_TO_ADD
+![ADD_NEW_EMP_](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/refs/heads/main/FORM.JPG)
 ---
 
 ## 🚀 Features
