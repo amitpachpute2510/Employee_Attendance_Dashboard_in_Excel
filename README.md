@@ -3,7 +3,7 @@
 
 An advanced and dynamic **Employee Attendance Tracker** built in Microsoft Excel. This dashboard provides real-time analytics, PDF report automation, employee record management, and smooth sheet navigation — all in a clean, user-friendly format.
 
-![Dashboard Screenshot](C:\DATA ENGINEERING\EXCEL\HR ATTENDENCE DASHBORD\DASHBORD.png)
+D:\GitHub\Employee-Attendance-Dashboard\Screenshots\dashboard_preview.png
 
 ---
 
