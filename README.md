@@ -52,7 +52,3 @@ An advanced and dynamic **Employee Attendance Tracker** built in Microsoft Excel
   - Email automation
   - Form submission and image linking
 
----
-
-## 📁 File Structure
-
